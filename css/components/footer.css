@@ -1,0 +1,22 @@
+.footer {
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: #2C2B2B;
+  text-align: center;
+}
+.footer a {
+  color: #02B7E7;
+}
+.footer a:hover {
+  color: white;
+}
+.footer p {
+  color: white;
+  opacity: .6;
+}
+.list-inline > li {
+  display: inline-block;
+  font-size: 30px;
+  text-align: center;
+  padding: 5px;
+}
